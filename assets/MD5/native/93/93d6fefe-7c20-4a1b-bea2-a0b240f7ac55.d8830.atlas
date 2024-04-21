@@ -1,0 +1,48 @@
+
+phuonghoangbang.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+canh
+  rotate: false
+  xy: 1516, 1612
+  size: 242, 206
+  orig: 242, 206
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 2, 1153
+  size: 872, 665
+  orig: 872, 665
+  offset: 0, 0
+  index: -1
+fx1
+  rotate: false
+  xy: 2, 593
+  size: 836, 558
+  orig: 836, 558
+  offset: 0, 0
+  index: -1
+line1
+  rotate: false
+  xy: 876, 1368
+  size: 638, 450
+  orig: 638, 450
+  offset: 0, 0
+  index: -1
+line2
+  rotate: true
+  xy: 486, 7
+  size: 584, 472
+  orig: 584, 472
+  offset: 0, 0
+  index: -1
+nguoi
+  rotate: false
+  xy: 2, 2
+  size: 482, 589
+  orig: 482, 589
+  offset: 0, 0
+  index: -1
