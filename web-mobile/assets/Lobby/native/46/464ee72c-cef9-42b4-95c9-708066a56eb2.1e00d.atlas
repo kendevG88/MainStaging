@@ -1,0 +1,76 @@
+
+skeleton.png
+size: 1024, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Aviator Skeleton_0_Icon
+  rotate: false
+  xy: 2, 32
+  size: 307, 452
+  orig: 309, 455
+  offset: 2, 2
+  index: -1
+Aviator Skeleton_1_Icon
+  rotate: true
+  xy: 897, 243
+  size: 104, 85
+  orig: 106, 86
+  offset: 1, 0
+  index: -1
+Aviator Skeleton_2_Icon
+  rotate: false
+  xy: 855, 349
+  size: 134, 135
+  orig: 134, 138
+  offset: 0, 1
+  index: -1
+Aviator Skeleton_3_Icon
+  rotate: false
+  xy: 311, 76
+  size: 268, 408
+  orig: 268, 410
+  offset: 0, 2
+  index: -1
+Aviator Skeleton_4_Icon
+  rotate: false
+  xy: 581, 214
+  size: 314, 100
+  orig: 317, 101
+  offset: 3, 1
+  index: -1
+Aviator Skeleton_5_Icon
+  rotate: false
+  xy: 581, 76
+  size: 161, 136
+  orig: 162, 136
+  offset: 1, 0
+  index: -1
+Aviator Skeleton_6_Icon
+  rotate: false
+  xy: 491, 7
+  size: 177, 67
+  orig: 182, 68
+  offset: 3, 0
+  index: -1
+Aviator Skeleton_7_Icon
+  rotate: false
+  xy: 581, 316
+  size: 272, 168
+  orig: 275, 168
+  offset: 3, 0
+  index: -1
+Aviator Skeleton_8_Icon
+  rotate: false
+  xy: 744, 108
+  size: 136, 104
+  orig: 139, 106
+  offset: 2, 1
+  index: -1
+Aviator Skeleton_9_Icon
+  rotate: false
+  xy: 311, 2
+  size: 178, 72
+  orig: 183, 72
+  offset: 3, 0
+  index: -1

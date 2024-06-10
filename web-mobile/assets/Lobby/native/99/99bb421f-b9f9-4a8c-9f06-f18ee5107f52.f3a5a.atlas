@@ -1,0 +1,90 @@
+
+PSD_5icon.png
+size: 1526,386
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3_Khung
+  rotate: false
+  xy: 2, 2
+  size: 266, 382
+  orig: 268, 384
+  offset: 1, 1
+  index: -1
+3_bg
+  rotate: false
+  xy: 538, 12
+  size: 259, 372
+  orig: 261, 374
+  offset: 1, 1
+  index: -1
+3_bg_text
+  rotate: false
+  xy: 1264, 270
+  size: 260, 114
+  orig: 262, 116
+  offset: 1, 1
+  index: -1
+3_eff
+  rotate: false
+  xy: 1030, 188
+  size: 232, 196
+  orig: 235, 200
+  offset: 1, 2
+  index: -1
+3_fx
+  rotate: false
+  xy: 799, 5
+  size: 78, 78
+  orig: 89, 91
+  offset: 6, 7
+  index: -1
+3_logo
+  rotate: false
+  xy: 1264, 64
+  size: 240, 97
+  orig: 244, 100
+  offset: 1, 2
+  index: -1
+3_neon1
+  rotate: false
+  xy: 1030, 80
+  size: 232, 106
+  orig: 236, 111
+  offset: 2, 2
+  index: -1
+3_neon2
+  rotate: false
+  xy: 1264, 163
+  size: 241, 105
+  orig: 246, 109
+  offset: 2, 2
+  index: -1
+3_nv
+  rotate: false
+  xy: 799, 85
+  size: 229, 299
+  orig: 231, 299
+  offset: 1, 0
+  index: -1
+3_text
+  rotate: false
+  xy: 1128, 41
+  size: 75, 37
+  orig: 79, 39
+  offset: 2, 1
+  index: -1
+3_text2
+  rotate: false
+  xy: 879, 16
+  size: 247, 62
+  orig: 250, 65
+  offset: 1, 1
+  index: -1
+Khung
+  rotate: false
+  xy: 270, 2
+  size: 266, 382
+  orig: 268, 384
+  offset: 1, 1
+  index: -1

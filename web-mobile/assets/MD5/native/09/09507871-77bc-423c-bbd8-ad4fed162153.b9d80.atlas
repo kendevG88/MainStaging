@@ -1,0 +1,13 @@
+
+fx_tx.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_xoay
+  rotate: false
+  xy: 2, 2
+  size: 200, 194
+  orig: 200, 194
+  offset: 0, 0
+  index: -1

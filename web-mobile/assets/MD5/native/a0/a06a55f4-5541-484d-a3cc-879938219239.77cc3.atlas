@@ -1,0 +1,69 @@
+
+phuonghoang.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+canh1
+  rotate: true
+  xy: 963, 1122
+  size: 196, 304
+  orig: 196, 304
+  offset: 0, 0
+  index: -1
+canh2
+  rotate: false
+  xy: 1535, 1637
+  size: 472, 304
+  orig: 472, 304
+  offset: 0, 0
+  index: -1
+chan
+  rotate: true
+  xy: 874, 977
+  size: 125, 73
+  orig: 125, 73
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 715, 327
+  size: 113, 110
+  orig: 113, 110
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 2, 439
+  size: 870, 663
+  orig: 870, 663
+  offset: 0, 0
+  index: -1
+fx2
+  rotate: false
+  xy: 2, 1104
+  size: 959, 837
+  orig: 959, 837
+  offset: 0, 0
+  index: -1
+line1
+  rotate: true
+  xy: 1535, 1297
+  size: 338, 405
+  orig: 338, 405
+  offset: 0, 0
+  index: -1
+line2
+  rotate: false
+  xy: 963, 1320
+  size: 570, 621
+  orig: 570, 621
+  offset: 0, 0
+  index: -1
+nguoi
+  rotate: false
+  xy: 2, 2
+  size: 711, 435
+  orig: 711, 435
+  offset: 0, 0
+  index: -1

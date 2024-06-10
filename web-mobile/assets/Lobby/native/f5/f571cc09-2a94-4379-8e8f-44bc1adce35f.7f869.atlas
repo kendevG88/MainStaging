@@ -1,0 +1,104 @@
+
+PSD_5icon.png
+size: 1227,537
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3_Khung
+  rotate: false
+  xy: 2, 153
+  size: 266, 382
+  orig: 268, 384
+  offset: 1, 1
+  index: -1
+5_bg
+  rotate: false
+  xy: 538, 163
+  size: 259, 372
+  orig: 261, 374
+  offset: 1, 1
+  index: -1
+5_bg_text
+  rotate: false
+  xy: 807, 73
+  size: 183, 45
+  orig: 185, 47
+  offset: 1, 1
+  index: -1
+5_bg_text2
+  rotate: false
+  xy: 538, 86
+  size: 267, 75
+  orig: 269, 77
+  offset: 1, 1
+  index: -1
+5_fx
+  rotate: false
+  xy: 807, 120
+  size: 171, 77
+  orig: 174, 139
+  offset: 2, 56
+  index: -1
+5_fx2
+  rotate: false
+  xy: 474, 7
+  size: 171, 77
+  orig: 174, 140
+  offset: 1, 57
+  index: -1
+5_nv1
+  rotate: false
+  xy: 799, 199
+  size: 195, 336
+  orig: 195, 336
+  offset: 0, 0
+  index: -1
+5_nv2
+  rotate: true
+  xy: 2, 11
+  size: 140, 254
+  orig: 140, 254
+  offset: 0, 0
+  index: -1
+5_nv3
+  rotate: false
+  xy: 996, 275
+  size: 229, 260
+  orig: 229, 260
+  offset: 0, 0
+  index: -1
+5_nv4
+  rotate: false
+  xy: 996, 72
+  size: 213, 201
+  orig: 213, 201
+  offset: 0, 0
+  index: -1
+5_nv5
+  rotate: true
+  xy: 258, 5
+  size: 146, 214
+  orig: 146, 214
+  offset: 0, 0
+  index: -1
+5_text1
+  rotate: false
+  xy: 647, 21
+  size: 137, 63
+  orig: 139, 65
+  offset: 1, 1
+  index: -1
+5_text2
+  rotate: false
+  xy: 786, 2
+  size: 108, 69
+  orig: 110, 71
+  offset: 1, 1
+  index: -1
+Khung
+  rotate: false
+  xy: 270, 153
+  size: 266, 382
+  orig: 268, 384
+  offset: 1, 1
+  index: -1

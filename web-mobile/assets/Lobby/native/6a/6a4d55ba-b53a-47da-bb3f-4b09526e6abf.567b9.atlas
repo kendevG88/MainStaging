@@ -1,0 +1,83 @@
+
+PSD_5icon.png
+size: 1831,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_bg
+  rotate: true
+  xy: 770, 9
+  size: 259, 345
+  orig: 261, 347
+  offset: 1, 1
+  index: -1
+1_bg_text
+  rotate: true
+  xy: 1439, 2
+  size: 266, 108
+  orig: 268, 111
+  offset: 1, 1
+  index: -1
+1_logo
+  rotate: true
+  xy: 1549, 9
+  size: 259, 85
+  orig: 261, 87
+  offset: 1, 1
+  index: -1
+1_nv
+  rotate: true
+  xy: 1117, 26
+  size: 242, 320
+  orig: 254, 331
+  offset: 7, 5
+  index: -1
+1_tai
+  rotate: true
+  xy: 1117, 15
+  size: 9, 8
+  orig: 11, 10
+  offset: 1, 1
+  index: -1
+1_text
+  rotate: false
+  xy: 1636, 21
+  size: 64, 35
+  orig: 66, 38
+  offset: 1, 2
+  index: -1
+1_text1
+  rotate: true
+  xy: 1691, 64
+  size: 204, 47
+  orig: 206, 49
+  offset: 1, 1
+  index: -1
+1_text2
+  rotate: true
+  xy: 1636, 58
+  size: 210, 53
+  orig: 212, 55
+  offset: 1, 1
+  index: -1
+3_Khung
+  rotate: true
+  xy: 2, 2
+  size: 266, 382
+  orig: 268, 384
+  offset: 1, 1
+  index: -1
+4_light
+  rotate: true
+  xy: 1740, 176
+  size: 92, 89
+  orig: 100, 99
+  offset: 7, 3
+  index: -1
+Khung
+  rotate: true
+  xy: 386, 2
+  size: 266, 382
+  orig: 268, 384
+  offset: 1, 1
+  index: -1

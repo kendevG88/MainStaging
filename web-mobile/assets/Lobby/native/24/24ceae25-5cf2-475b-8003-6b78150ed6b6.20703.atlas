@@ -1,0 +1,202 @@
+
+PSD_5icon.png
+size: 1872,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4_-casino
+  rotate: false
+  xy: 1336, 4
+  size: 171, 64
+  orig: 173, 67
+  offset: 1, 2
+  index: -1
+4_A
+  rotate: false
+  xy: 1619, 41
+  size: 47, 63
+  orig: 51, 66
+  offset: 2, 2
+  index: -1
+4_BG_text
+  rotate: false
+  xy: 1434, 160
+  size: 237, 110
+  orig: 239, 112
+  offset: 1, 1
+  index: -1
+4_C
+  rotate: true
+  xy: 1812, 9
+  size: 39, 58
+  orig: 42, 61
+  offset: 1, 2
+  index: -1
+4_I
+  rotate: false
+  xy: 1839, 206
+  size: 31, 64
+  orig: 34, 67
+  offset: 1, 2
+  index: -1
+4_Khung
+  rotate: true
+  xy: 2, 4
+  size: 266, 382
+  orig: 268, 384
+  offset: 1, 1
+  index: -1
+4_Logo
+  rotate: false
+  xy: 1137, 3
+  size: 197, 65
+  orig: 199, 67
+  offset: 1, 1
+  index: -1
+4_N
+  rotate: true
+  xy: 1680, 126
+  size: 45, 64
+  orig: 49, 67
+  offset: 2, 2
+  index: -1
+4_O
+  rotate: false
+  xy: 1771, 2
+  size: 39, 56
+  orig: 42, 59
+  offset: 2, 2
+  index: -1
+4_S
+  rotate: false
+  xy: 1771, 60
+  size: 39, 64
+  orig: 43, 67
+  offset: 2, 2
+  index: -1
+4_bai
+  rotate: true
+  xy: 1799, 126
+  size: 62, 34
+  orig: 65, 39
+  offset: 2, 2
+  index: -1
+4_bai2
+  rotate: true
+  xy: 1839, 164
+  size: 40, 29
+  orig: 44, 33
+  offset: 2, 2
+  index: -1
+4_bai3
+  rotate: false
+  xy: 1661, 2
+  size: 28, 28
+  orig: 31, 31
+  offset: 2, 2
+  index: -1
+4_bg
+  rotate: true
+  xy: 770, 11
+  size: 259, 365
+  orig: 261, 367
+  offset: 1, 1
+  index: -1
+4_dc
+  rotate: false
+  xy: 1812, 50
+  size: 50, 47
+  orig: 52, 49
+  offset: 1, 1
+  index: -1
+4_light
+  rotate: true
+  xy: 1680, 32
+  size: 92, 89
+  orig: 100, 99
+  offset: 7, 3
+  index: -1
+4_neon
+  rotate: false
+  xy: 1835, 99
+  size: 30, 29
+  orig: 33, 33
+  offset: 1, 2
+  index: -1
+4_nv
+  rotate: true
+  xy: 1137, 70
+  size: 200, 295
+  orig: 210, 299
+  offset: 9, 0
+  index: -1
+4_nv_hair
+  rotate: true
+  xy: 1434, 78
+  size: 80, 148
+  orig: 83, 148
+  offset: 3, 0
+  index: -1
+4_nv_head
+  rotate: true
+  xy: 1673, 173
+  size: 97, 124
+  orig: 98, 124
+  offset: 1, 0
+  index: -1
+4_nv_tai
+  rotate: true
+  xy: 770, 2
+  size: 7, 12
+  orig: 9, 14
+  offset: 1, 1
+  index: -1
+4_text
+  rotate: true
+  xy: 1799, 190
+  size: 80, 38
+  orig: 82, 40
+  offset: 1, 1
+  index: -1
+4_text2
+  rotate: false
+  xy: 1584, 106
+  size: 94, 52
+  orig: 98, 56
+  offset: 2, 2
+  index: -1
+4_x1
+  rotate: false
+  xy: 1835, 130
+  size: 32, 32
+  orig: 34, 34
+  offset: 1, 1
+  index: -1
+4_x2
+  rotate: true
+  xy: 1619, 2
+  size: 37, 40
+  orig: 39, 42
+  offset: 1, 1
+  index: -1
+4_x3
+  rotate: false
+  xy: 1746, 127
+  size: 42, 44
+  orig: 44, 46
+  offset: 1, 1
+  index: -1
+Khung
+  rotate: true
+  xy: 386, 4
+  size: 266, 382
+  orig: 268, 384
+  offset: 1, 1
+  index: -1
+Layer-25
+  rotate: true
+  xy: 1509, 13
+  size: 63, 108
+  orig: 63, 108
+  offset: 0, 0
+  index: -1

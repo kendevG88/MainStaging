@@ -1,0 +1,97 @@
+
+PSD_5icon.png
+size: 1743,414
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_bg
+  rotate: false
+  xy: 1062, 40
+  size: 259, 372
+  orig: 261, 374
+  offset: 1, 1
+  index: -1
+2_bg_txt
+  rotate: true
+  xy: 1618, 150
+  size: 262, 117
+  orig: 268, 123
+  offset: 2, 5
+  index: -1
+2_coin
+  rotate: false
+  xy: 2, 6
+  size: 522, 406
+  orig: 525, 415
+  offset: 2, 8
+  index: -1
+2_eye
+  rotate: true
+  xy: 526, 2
+  size: 26, 14
+  orig: 28, 16
+  offset: 1, 1
+  index: -1
+2_hair
+  rotate: true
+  xy: 1505, 20
+  size: 77, 111
+  orig: 77, 111
+  offset: 0, 0
+  index: -1
+2_heir2
+  rotate: true
+  xy: 1618, 39
+  size: 65, 123
+  orig: 67, 123
+  offset: 2, 0
+  index: -1
+2_logo
+  rotate: false
+  xy: 1544, 106
+  size: 176, 42
+  orig: 178, 44
+  offset: 1, 1
+  index: -1
+2_nv
+  rotate: false
+  xy: 1323, 99
+  size: 219, 313
+  orig: 230, 324
+  offset: 8, 7
+  index: -1
+2_tay
+  rotate: true
+  xy: 1323, 6
+  size: 91, 180
+  orig: 97, 180
+  offset: 6, 0
+  index: -1
+2_text
+  rotate: true
+  xy: 1544, 169
+  size: 243, 65
+  orig: 245, 72
+  offset: 1, 4
+  index: -1
+2_text1
+  rotate: false
+  xy: 1062, 6
+  size: 70, 32
+  orig: 72, 34
+  offset: 1, 1
+  index: -1
+3_Khung
+  rotate: false
+  xy: 526, 30
+  size: 266, 382
+  orig: 268, 384
+  offset: 1, 1
+  index: -1
+Khung
+  rotate: false
+  xy: 794, 30
+  size: 266, 382
+  orig: 268, 384
+  offset: 1, 1
+  index: -1
