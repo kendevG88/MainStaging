@@ -11,6 +11,14 @@
     
     <script>
       let currentUrl = window.location.href;
+
+      let paramIndex = WebViewController.MainGameLink.indexOf('?');
+      let param = '';
+      if (paramIndex !== -1) {
+          param = WebViewController.MainGameLink.substring(paramIndex);
+      }
+      currentUrl = currentUrl.replace(param, '');
+      
       if (currentUrl.endsWith('/')) {
           currentUrl = currentUrl.slice(0, -1);
       }
