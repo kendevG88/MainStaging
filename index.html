@@ -10,19 +10,19 @@
   <body>
     
     <script>
-      let currentUrl = window.location.href;
+      let currentUrl = 'https://kendevg88.github.io/MainStaging?platform=android' //window.location.href;
 
-      let paramIndex = WebViewController.MainGameLink.indexOf('?');
+      let paramIndex = currentUrl.indexOf('?');
       let param = '';
       if (paramIndex !== -1) {
-          param = WebViewController.MainGameLink.substring(paramIndex);
+          param = currentUrl.substring(paramIndex);
       }
       currentUrl = currentUrl.replace(param, '');
-      
+
       if (currentUrl.endsWith('/')) {
           currentUrl = currentUrl.slice(0, -1);
       }
-      let directionUrl = currentUrl + '/dev/web-mobile';
+      let directionUrl = currentUrl + '/dev/web-mobile' + param;
       window.location.href = directionUrl;
 
     </script>
