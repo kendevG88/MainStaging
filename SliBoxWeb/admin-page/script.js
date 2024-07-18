@@ -143,7 +143,7 @@ function logOut() {
 }
 function sendMessageToServer(message, callBack = null) {
     message.token = loginToken;
-    fetch('/send-message', {
+    fetch(serverDomain+'/send-message', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
