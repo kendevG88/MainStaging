@@ -1,0 +1,20 @@
+
+skeleton.png
+size: 232, 164
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+waiting_0_Icon
+  rotate: false
+  xy: 2, 118
+  size: 225, 41
+  orig: 225, 41
+  offset: 0, 0
+  index: -1
+waiting_1_Icon
+  rotate: false
+  xy: 2, 2
+  size: 114, 114
+  orig: 118, 118
+  offset: 2, 2
+  index: -1
